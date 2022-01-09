@@ -41,15 +41,15 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
   ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/percent_paid_five.png)
 
-  --51.06% of all Vine reviews were 5 stars
+  51.06% of all Vine reviews were 5 stars
 
   ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/percent_five_paid.png)
 
-  --0.31% of all 5 star reviews were Vine reviews
+  0.31% of all 5 star reviews were Vine reviews
 
   ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/percent_five_paid_total_reviews.png)
 
-  --0.12% of all reviews (both Vine, non-Vine) were 5 star
+  0.12% of all reviews (both Vine, non-Vine) were 5 star Vine reviews
 
   The percent of non-Vine reviews are 5 star are:
 
