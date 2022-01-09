@@ -10,15 +10,25 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 - How many Vine reviews and non-Vine reviews were there?
 
+  ![]()
+
   There were a total of 40565 reviews.
 
+  ![]()
+
   There were a total of 94 Vine reviews.
+
+  ![]()
 
   There were a total of 40471 non-Vine reviews.
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
+  ![]()
+
   There were a total of 48 Vine 5 star reviews.
+
+  ![]()
 
   There were a total of 15663 non-Vine 5 star reviews.
 
@@ -26,15 +36,25 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
   The percent of Vine reviews that are 5 stars are:
 
+  ![]()
+
   --51.06% of all Vine reviews were 5 stars
 
+  ![]()
+
   --0.31% of all 5 star reviews were Vine reviews
+
+  ![]()
 
   --0.12% of all reviews (both Vine, non-Vine) were 5 star
 
   The percent of non-Vine reviews are 5 star are:
 
+  ![]()
+
   --99.69% of all 5 star reviews are non-Vine
+
+  ![]()
 
   --38.61% of all reviews are 5 star non-Vine
 
