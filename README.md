@@ -10,25 +10,28 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 - How many Vine reviews and non-Vine reviews were there?
 
-  ![]()
+  ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/total_reviews.png)
 
   There were a total of 40565 reviews.
 
-  ![]()
+  ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/total_paid_reviews.png)
 
   There were a total of 94 Vine reviews.
 
-  ![]()
+  ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/total_non_paid.png)
 
   There were a total of 40471 non-Vine reviews.
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/total_five_reviews.png)
 
-  ![]()
+  There were a total of 15711 5 star reviews.
+
+  ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/total_paid_five_reviews.png)
 
   There were a total of 48 Vine 5 star reviews.
 
-  ![]()
+  ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/total_five_unpaid.png)
 
   There were a total of 15663 non-Vine 5 star reviews.
 
@@ -36,25 +39,25 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
   The percent of Vine reviews that are 5 stars are:
 
-  ![]()
+  ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/percent_paid_five.png)
 
   --51.06% of all Vine reviews were 5 stars
 
-  ![]()
+  ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/percent_five_paid.png)
 
   --0.31% of all 5 star reviews were Vine reviews
 
-  ![]()
+  ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/percent_five_paid_total_reviews.png)
 
   --0.12% of all reviews (both Vine, non-Vine) were 5 star
 
   The percent of non-Vine reviews are 5 star are:
 
-  ![]()
+  ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/percent_unpaid_five.png)
 
   --99.69% of all 5 star reviews are non-Vine
 
-  ![]()
+  ![](https://github.com/labinskin/Amazon_Vine_Analysis/blob/main/Resources/percent_unpaid_five_total.png)
 
   --38.61% of all reviews are 5 star non-Vine
 
